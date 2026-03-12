@@ -18,6 +18,7 @@
 - **Single source of truth** -- Beamer `.tex` is authoritative; Quarto `.qmd` derives from it
 - **Quality gates** -- nothing ships below 80/100
 - **[LEARN] tags** -- when corrected, save `[LEARN:category] wrong → right` to MEMORY.md
+- 与我的对话请使用中文
 
 ---
 
@@ -41,6 +42,11 @@
 ```
 
 ---
+
+## Python Environment
+
+- **Interpreter:** `D:/Application/Anaconda/envs/empirical/python.exe` (Python 3.11.8)
+
 
 ## Commands
 
