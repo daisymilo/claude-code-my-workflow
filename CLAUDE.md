@@ -19,6 +19,8 @@
 - **Quality gates** -- nothing ships below 80/100
 - **[LEARN] tags** -- when corrected, save `[LEARN:category] wrong → right` to MEMORY.md
 - 与我的对话请使用中文
+- word文档格式要求：字体颜色黑色，中文字体为宋体，西文字体为Times New Roman，正文字号为小四，一级标题为小三，二级标题为四号，三级标题为小四，表格内文字字号为10号，表格格式为三线表
+- 除非我特别要求，否则在编写和运行python代码时，请编写运行.py脚本，不要使用.ipynb格式
 
 ---
 
